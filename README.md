@@ -57,7 +57,6 @@ Create and migrate the database
 rails db:create
 rails db:migrate
 ```
-
 To run the server
 
 ```
@@ -65,6 +64,8 @@ rails s
 ```
 
 Link to [localhost](http://localhost:3000/)
+
+You can view the front-end repository [here](https://github.com/direakanbi/hello-rails-frontend)
 
 ## Authors
 Dire Akanbi 
