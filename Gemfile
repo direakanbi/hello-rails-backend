@@ -17,7 +17,7 @@ gem 'rack-cors'
 
 gem 'tzinfo-data'
 
-gem "sassc-rails", "~> 2.1"
+gem 'sassc-rails', '~> 2.1'
 
 gem 'bootsnap', require: false
 
