@@ -1,0 +1,5 @@
+message1 = Greeting.create(message: "Hello Users, this is my first post")
+message2 = Greeting.create(message: "Hello Users, this is my second post")
+message3 = Greeting.create(message: "Hello Users, this is my third post")
+message4 = Greeting.create(message: "Hello Users, this is my fourth post")
+message5 = Greeting.create(message: "Hello Users, this is my fifth post")
